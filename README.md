@@ -48,6 +48,6 @@
 
 <p align="center">
 
-<a href="https://www.inkedin.com/in/felix-rodriguez-dev/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="felix.rg.coding.is.fun@gmail.com"><img src="https://img.shields.io/badge/-felix.rg.coding.is.fun@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://codepen.io/Felix-Rodriguez-Gonzalez"><img src="https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nahuel-agustin-ojeda-6b6802240/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="nahuedev20@gmail.com"><img src="https://img.shields.io/badge/-felix.rg.coding.is.fun@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://codepen.io/MatrixGuays"><img src="https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen&logoColor=white"/></a>
