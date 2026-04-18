@@ -15,7 +15,7 @@
 
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/FelixRodriguezG?pet-id=651340498570836706"
+    src="https://render.gitanimals.org/lines/MatrixGuays?pet-id=651340498570836706"
     width="600"
     height="120"
   />
