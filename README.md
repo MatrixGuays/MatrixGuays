@@ -44,9 +44,6 @@
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
-
-src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14"
-
 <p align="center">
 
 <a href="https://www.linkedin.com/in/nahuel-agustin-ojeda-6b6802240/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
