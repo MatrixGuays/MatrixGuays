@@ -8,7 +8,7 @@
 🌱 &nbsp;I'm going deeper into the basics of javascript and the peculiarities of Vue.js.\
 🎨 &nbsp;In my free time, I like to keep up to date with technology and learn new things like drawing with pixel art.\
 💬 &nbsp;Feel free to contact me for inquiries, hiring or to have interesting discussions.\
-✉️ &nbsp;You can shoot me an email at felix.rg.coding.is.fun@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at nahuedev20@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/16tAamm6ChOK7i6krD5nInSHgxCPcT6Wm/view?usp=sharing ) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
